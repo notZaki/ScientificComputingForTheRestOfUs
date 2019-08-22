@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Distributed on </title>
+    <link>http://sciencecomputing.io/packages/distributed/</link>
+    <description>Recent content in Distributed on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://sciencecomputing.io/packages/distributed/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Parallel computing</title>
+      <link>http://sciencecomputing.io/primers/parallelcomputing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://sciencecomputing.io/primers/parallelcomputing/</guid>
+      <description>Sometimes, we really need more than one CPU to get things done in a reasonable amount of time.
+using Distributedaddprocs(2) 2-element Array{Int64,1}: 14 15  </description>
+    </item>
+    
+  </channel>
+</rss>
